@@ -1,0 +1,2 @@
+Voting System README
+To access this voting system, press F12 or right-click and select "Inspect" to open the console. Make sure you have MetaMask installed for seamless functionality. Follow the provided instructions for a smooth voting experience.
